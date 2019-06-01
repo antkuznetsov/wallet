@@ -2,6 +2,10 @@
 RESTful API (including data model and the backing implementation)
 for money transfers between accounts.
 
+To run the application:
+
+`mvn compile && mvn exec:java`
+
 ## Accounts
 
 #### Account list
